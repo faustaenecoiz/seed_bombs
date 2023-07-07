@@ -1,0 +1,183 @@
+header{
+    text-align: center;
+    margin: 0px;
+    padding: 20px;
+    display: flex;
+    background-color: rgb(11, 138, 21);
+   }
+
+  
+   h2{
+       color: rgb(238, 231, 233);
+       margin-left: 100px;
+       margin-top: 35px;
+       font-size: 50px;
+       font-family: 'Lato', sans-serif;
+       font-family: sans-serif;
+   }
+   #manoamiga{
+      margin-left: 99px;
+      margin-top : 8px;
+   }
+   img{
+       width: 140px;
+       height: 140px;
+   }
+   #imagen2{
+       width: 350px;
+       height: 250px;
+   
+   }
+   #card1{
+       margin-left: 20px;
+   }
+   .card{
+       background-color: rgb(194, 245, 189);
+       margin: 15px;
+   }
+   #imagen1{
+       width: 350px;
+       height: 250px;
+   }
+   #imagen3{
+       width: 350px;
+       height: 250px;
+   }
+   #hoja1{
+       width: 1348px;
+       height: 200px;
+       margin:0px;
+   }
+   h4{
+       text-align: center;
+       font-size: 40px;
+       color: white;
+   }
+   #h4{
+      background-color:  rgb(11, 138, 21);
+      padding: 5px;
+      margin: 1px;
+   }
+   #hojitasalreves{
+       width: 1348px;
+       height: 180px;
+       margin: -2px;
+   }
+   #elements,#stepone,#stepsecond{
+       width: 288px;
+       height: 270px;
+   }
+   #carrusel{
+       background-color: rgb(11, 138, 21);
+      padding: 5px;
+      margin: 1px;
+   }
+   h5{
+    padding: 5px;
+    margin: 1px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 30px;
+   }
+   h3{
+       text-align: center;
+       font-size: 30px;
+       color: white; 
+   }
+.width{
+    width: auto;
+}
+#parrafo,#parrafo2{
+     font-size: 27px;
+     text-align: center;
+     background-color:  rgb(11, 138, 21);
+     padding: 10px;
+     color: white;
+}
+#foto1,#foto2,#foto4{
+    width: 900px;
+    height: 600px;
+}
+.container-fluid{
+    width:900px;
+    height: 500px;
+}
+body{
+    background-image: radial-gradient(circle, #66ffa8, #52dd88, #3ebc6a, #299d4d, #0e7e32);
+}
+#hero{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    height: 90vh;
+    color: white;
+    background-image: linear-gradient(
+        0deg,
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    )
+    ,url(imagenes/hero3.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+   
+}
+#video{
+    margin: 20px;
+    padding: 20px;
+}
+.card:hover{
+    transition: all 2s;
+    transform: scale(1.1);
+}
+.container2{
+margin: 20px;
+padding: 15px;
+}
+#tabla1:hover {
+    transition: all 2s;
+    transform: scale(1.1); 
+}
+#tabla2:hover {
+    transition: all 2s;
+    transform: scale(1.1); 
+}
+#tabla3:hover {
+    transition: all 2s;
+    transform: scale(1.1); 
+}
+#tabla4:hover {
+    transition: all 2s;
+    transform: scale(1.1); 
+}
+
+#video{
+    width: 900px;
+    height: 600px;
+    margin: 10px;
+}
+body{
+    background-image: radial-gradient(circle, #66ffa8, #52dd88, #3ebc6a, #299d4d, #0e7e32);
+}
+#hero{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    height: 90vh;
+    color: white;
+    background-image: linear-gradient(
+        0deg,
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    )
+    ,url(imagenes/hero3.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+   
+}
+
